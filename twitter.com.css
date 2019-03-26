@@ -1,0 +1,6 @@
+/* 投票の割合を投票していない状態でも表示する */
+.TwitterCard [data-poll-state="opened"] .PollXChoice-optionContainer .PollXChoice-progress {
+	margin-right: 1em;
+	margin-left: 0;
+	max-width: none;
+}

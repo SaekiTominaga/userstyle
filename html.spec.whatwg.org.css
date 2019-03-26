@@ -1,0 +1,4 @@
+/* 文中の要素名や属性名のリンクは常に下線表示（橙色の下線なしではリンクだと判別しにくい） */
+code :link, code :visited {
+	text-decoration: underline;
+}

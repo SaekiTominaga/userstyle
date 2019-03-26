@@ -1,0 +1,5 @@
+/* 検索結果のリンクは常に下線表示 */
+#tads a, #tadsb a, #res a, #rhs a, #taw a,
+#tads a .LC20lb, #tadsb a .LC20lb, #res a .LC20lb, #rhs a .LC20lb, #taw a .LC20lb {
+	text-decoration: underline;
+}

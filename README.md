@@ -3,7 +3,6 @@
 公開して差し支えのないもの、かつ他の人が見て有用そうなもののみ公開します。
 
 - [Google](google.co.jp.css)
-- [Twitter](twitter.com.css)
+- [Instagram](instagram.com.css)
 - [Facebook](facebook.com.css)
-- [WHATWG](html.spec.whatwg.org.css)
-- [npm](www.npmjs.com.css)
+- [WHATWG](html.spec.whatwg.org.css) （※ momdo.github.io にも適用）

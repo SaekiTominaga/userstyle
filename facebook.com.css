@@ -1,3 +1,4 @@
-.ego_unit_container {
-	display: none;
+/* 右カラムを非表示 */
+[role="complementary"] {
+	visibility: hidden;
 }

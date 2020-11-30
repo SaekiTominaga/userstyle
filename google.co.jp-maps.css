@@ -1,0 +1,11 @@
+/* 制作者CSS で background-color: #fff しか設定されていない */
+.searchbox,
+.widget-pane-visible,
+.widget-pane-content {
+	color: #000;
+}
+
+/* 施設名を Ctrl + c した時に余計な改行が含まれてしまうのを防ぐ */
+.section-hero-header-title-title > span:first-child {
+	display: block;
+}

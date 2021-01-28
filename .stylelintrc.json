@@ -13,7 +13,6 @@
 		"max-nesting-depth": 5,
 		"no-descending-specificity": null,
 		"no-duplicate-selectors": true,
-		"number-leading-zero": "never",
 		"selector-max-universal": 0,
 		"string-quotes": "double",
 		"value-keyword-case": null

@@ -2,8 +2,8 @@
 
 公開して差し支えのないもの、かつ他の人が見て有用そうなもののみ公開します。
 
-- [Google](google.co.jp.css)
-- [Google Maps](google.co.jp-maps.css)
-- [Instagram](instagram.com.css)
-- [Facebook](facebook.com.css)
-- [WHATWG](html.spec.whatwg.org.css) （※ momdo.github.io にも適用）
+- [Facebook](style/facebook_com.css)
+- [Google](style/google_co_jp.css)
+- [Google Maps](style/google_co_jp-maps.css)
+- [Instagram](style/instagram_com.css)
+- [HTML Living Standard](style/html_spec_whatwg_org.css) （※ momdo.github.io にも適用）

@@ -1,0 +1,4 @@
+/* 詳細検索の入力欄が Firefox でレイアウト崩れるのを防ぐ */
+.advancedSearchForm .labelCell {
+	display: block;
+}

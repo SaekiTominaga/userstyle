@@ -7,3 +7,4 @@
 - [Google Maps](style/google_co_jp-maps.css)
 - [Instagram](style/instagram_com.css)
 - [HTML Living Standard](style/html_spec_whatwg_org.css) （※ momdo.github.io にも適用）
+- [NDL ONLINE　国立国会図書館オンライン](style/ndlonline_ndl_go_jp.css)

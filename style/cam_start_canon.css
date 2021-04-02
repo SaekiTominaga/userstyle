@@ -1,0 +1,9 @@
+/* Cookie 無効環境では常に overflow: hidden が掛かってしまう */
+body {
+	overflow: auto !important;
+}
+
+/* Cookie 無効環境では Cookie Wall が 常に出続けてしまう */
+#cookieAreaBase {
+	display: none !important;
+}

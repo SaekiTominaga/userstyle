@@ -9,7 +9,7 @@
 		"url": "git+https://github.com/SaekiTominaga/userstyle.git"
 	},
 	"devDependencies": {
-		"stylelint": "^13.11.0",
-		"stylelint-config-standard": "^20.0.0"
+		"stylelint": "^13.13.1",
+		"stylelint-config-standard": "^22.0.0"
 	}
 }

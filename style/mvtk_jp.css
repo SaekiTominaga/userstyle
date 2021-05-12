@@ -1,0 +1,8 @@
+/* Cookie 無効環境ではムビチケ当日券の案内モーダルウィンドウが常に出続けてしまう */
+.modal-cover.active {
+	display: none;
+}
+
+#modal_tojitsu {
+	display: none;
+}

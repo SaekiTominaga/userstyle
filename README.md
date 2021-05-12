@@ -9,3 +9,4 @@
 - [HTML Living Standard](style/html_spec_whatwg_org.css) （※ momdo.github.io にも適用）
 - [NDL ONLINE　国立国会図書館オンライン](style/ndlonline_ndl_go_jp.css)
 - [cam.start.canon : キヤノンの製品をお使いのお客様へ](style/cam_start_canon.css)
+- [デジタル映画鑑賞券 - ムビチケ](style/mvtk_jp.css)
